@@ -1,1 +1,1 @@
-# CSE514A_final_project
+Semantic Segmentation
